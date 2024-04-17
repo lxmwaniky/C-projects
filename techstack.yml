@@ -1,0 +1,30 @@
+repo_name: lxmwaniky/C
+report_id: 8d5b41434b8e20d7d5b0dca21c708989
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-17T21:46:17+00:00'
+requested_by: lxmwaniky
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/lxmwaniky/C
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lxmwaniky/C
+  detection_source: Repo Metadata
